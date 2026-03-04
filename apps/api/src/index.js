@@ -4,7 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { z } from 'zod';
-import { config } from './config.js';
+import { appConfig as config } from './config.js';
 import { ensureOperationalSchema } from './db.js';
 import {
   getAnomalies,

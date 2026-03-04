@@ -1,5 +1,5 @@
 import { pool } from './db.js';
-import { config } from './config.js';
+import { appConfig as config } from './config.js';
 
 const OPENALEX_BASE = 'https://api.openalex.org';
 

@@ -1,4 +1,4 @@
-import { config } from './config.js';
+import { appConfig as config } from './config.js';
 
 function compactReason(text, maxLength = 140) {
   const compact = (text || '').replace(/\s+/g, ' ').replace(/;+$/g, '').trim();

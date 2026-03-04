@@ -5,7 +5,7 @@ dotenv.config();
 const defaultRiskEnginePath = '../../../services/risk-engine/src/engine.py';
 const defaultCsvSourcePath = '../../../../retraction_watch.csv';
 
-export const config = {
+export const appConfig = {
   port: Number(process.env.PORT || 8080),
   databaseUrl:
     process.env.DATABASE_URL ||
