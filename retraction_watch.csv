@@ -1,0 +1,6 @@
+doi,journal,publisher,country,institution,publication_date,retraction_date,reason_text,severity_label
+10.5000/rw1,Global Clinical Frontiers,Aster Publishing,United States,Boston Biomedical Institute,2021-02-10,2024-01-20,Data fabrication and peer review manipulation discovered,high
+10.5000/rw2,Molecular Pathways Today,NorthBridge Science,China,Shenzhen Medical University,2022-01-14,2024-09-05,Paper mill activity and false authorship declaration,medium
+10.5000/rw3,Journal of Applied BioSystems,Beacon Journals,India,Indian Institute of Technology Delhi,2021-01-18,2024-11-18,Fabrication and ethics board non-compliance in trial data,high
+10.5000/rw4,Computational Medicine Signals,NorthBridge Science,Germany,Berlin Advanced Analytics Center,2021-03-05,2024-03-10,Peer review manipulation by fake reviewer emails,medium
+10.5000/rw5,Advanced Translational Reviews,Aster Publishing,United Kingdom,Leeds Integrative Institute,2023-02-12,2025-01-08,Human subjects ethics violation due to absent consent,high
